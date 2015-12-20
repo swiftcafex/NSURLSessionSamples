@@ -9,7 +9,7 @@ import UIKit
 //:
 //: ![](http://swiftcafe.io/images/qrcode.jpg)
 //:
-//: GitHub 地址 [https://github.com/swiftcafex/alamofireSamples](https://github.com/swiftcafex/alamofireSamples)
+//: GitHub 地址 [https://github.com/swiftcafex/NSURLSessionSamples](https://github.com/swiftcafex/NSURLSessionSamples)
 
 
 //: 简单 HTTP 请求
