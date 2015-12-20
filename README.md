@@ -1,13 +1,5 @@
-!title: "NSURLSession 网络库 - 原生系统送给我们的礼物"
-date: 2015-12-20 20:10:44
-tags:
-poster: /images/poster/nsurlsession.jpg
----
-
 
 大家在进行iOS开发的时候一定会用到网络操作。但由于早期原生的 NSURLConnection 操作起来有很多不便，使得大家更愿意使用第三方库的解决方案，比如鼎鼎大名的 AFNetworking。正是因为这点，苹果团队为开发者提供了改进后的原生网络库支持，也就是 NSURLSession。
-
-<!-- more -->
 
 
 ## NSURLSession 简介
